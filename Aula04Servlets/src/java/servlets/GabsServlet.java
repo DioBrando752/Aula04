@@ -36,7 +36,7 @@ public class gabsServlet extends HttpServlet {
             out.println("<!DOCTYPE html>");
             out.println("<html>");
             out.println("<head>");
-            out.println("<title>Gabriel</title>");            
+            out.println("<title>Gabriel Fernandes</title>");            
             out.println("</head>");
             out.println("<body>");
             out.println("<h1>Gabriel Fernandes</h1>");
