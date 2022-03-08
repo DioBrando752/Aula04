@@ -16,8 +16,8 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author T-Gamer
  */
-@WebServlet(name = "Ivan Servlet", urlPatterns = {"/ivan-servlet.html"})
-public class IvanServlet extends HttpServlet {
+@WebServlet(name = "gabs Servlet", urlPatterns = {"/gabs-servlet.html"})
+public class gabsServlet extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
@@ -36,11 +36,11 @@ public class IvanServlet extends HttpServlet {
             out.println("<!DOCTYPE html>");
             out.println("<html>");
             out.println("<head>");
-            out.println("<title>Meu nome</title>");            
+            out.println("<title>Gabriel</title>");            
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>Ivan Theodoro Bustamante Filho</h1>");
-            out.println("<h2>RA:1290481922003</h2>");
+            out.println("<h1>Gabriel Fernandes</h1>");
+            out.println("<h2>RA:1290481922049</h2>");
             out.println("<h2><a href='https://github.com/BustamanteBR/POObjeto'>GitHub</a></h2>");
             out.println("<br>");
             out.println("<h3><a href='index.html'>Voltar</a></h3>");
