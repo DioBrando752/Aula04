@@ -5,16 +5,16 @@
         <servlet-class>servlets.MathServlet</servlet-class>
     </servlet>
     <servlet>
-        <servlet-name>IvanServlet</servlet-name>
-        <servlet-class>servlets.IvanServlet</servlet-class>
+        <servlet-name>gabsServlet</servlet-name>
+        <servlet-class>servlets.gabsServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>MathServlet</servlet-name>
         <url-pattern>/MathServlet</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
-        <servlet-name>IvanServlet</servlet-name>
-        <url-pattern>/IvanServlet</url-pattern>
+        <servlet-name>gabsServlet</servlet-name>
+        <url-pattern>/gabsServlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
