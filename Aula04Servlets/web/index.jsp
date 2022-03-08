@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 7 de mar de 2022, 20:00:52
-    Author     : T-Gamer
+    Author     : FERNADES
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -14,11 +14,11 @@
     </head>
     <body>
         <h1>Servlets Parametrizados</h1>
-        <h2><a href="ivan-servlet.html">Nome do aluno</a></h2>
+        <h2><a href="ivan-servlet.html">Gabriel Fernandes</a></h2>
         <br>
         <h2>Operações Matematicas</h2>
         <form action="math-servlet.html">
-         Coloque 2 numeros para realizar as 4 relações matematicas fundamentais:
+         Coloque 2 numeros:
          <br>
          <input type="number" name="x"/>
          <input type="number" name="y"/>
