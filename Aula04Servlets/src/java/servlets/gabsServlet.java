@@ -41,7 +41,7 @@ public class gabsServlet extends HttpServlet {
             out.println("<body>");
             out.println("<h1>Gabriel Fernandes</h1>");
             out.println("<h2>RA:1290481922049</h2>");
-            out.println("<h2><a href='https://github.com/BustamanteBR/POObjeto'>GitHub</a></h2>");
+            out.println("<h2><a href='https://github.com/DioBrando752/Aula04.git'>GitHub</a></h2>");
             out.println("<br>");
             out.println("<h3><a href='index.html'>Voltar</a></h3>");
             out.println("</body>");
